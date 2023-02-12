@@ -1,0 +1,4 @@
+C:\Users\Balogh Istvan\source\csv_maker_clr\csv_maker_clr\x64\Debug\csv_maker_clr.vcxproj.AssemblyReference.cache
+C:\Users\Balogh Istvan\source\csv_maker_clr\csv_maker_clr\x64\Debug\csv_maker_clr.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Balogh Istvan\source\csv_maker_clr\csv_maker_clr\x64\Debug\csvmakerclr.MainForm.resources
+C:\Users\Balogh Istvan\source\csv_maker_clr\csv_maker_clr\x64\Debug\csv_maker_clr.vcxproj.GenerateResource.cache
